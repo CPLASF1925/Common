@@ -1,4 +1,4 @@
-package com.d.lib.common.common;
+package com.d.lib.common.view.dialog;
 
 import android.app.Activity;
 import android.app.AlertDialog;
