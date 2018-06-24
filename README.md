@@ -5,12 +5,6 @@
 
 >**Common**  一个基于 `MVP` 的开发框架
 
-- [x] MVP
-- [x] UI Components
-- [x] Auto Loader
-- [x] Pager
-- [x] Tools
-
 ## UI Components
 
 ##  =============================
@@ -457,13 +451,6 @@
 |    lib_pub_badgev_max         |  最大显示限定数  |
 
 
-
-## Auto Loader & Pager
-<p>
-   <img src="https://github.com/Dsiner/Resouce/blob/master/lib/Common/common.gif" width="320" alt="Screenshot"/>
-</p>
-
-More usage see [Wiki](https://github.com/Dsiner/Common/wiki)
 
 ## Licence
 

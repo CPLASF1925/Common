@@ -18,15 +18,13 @@
         android:supportsRtl="true"
         android:theme="@style/lib_pub_AppTheme">
 
-        <activity android:name="com.d.commonapp.MainActivity">
+        <activity android:name="com.d.common.component.ui.UIActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.d.commonapp.activity.LoaderActivity" />
-        <activity android:name="com.d.commonapp.activity.PagerActivity" />
     </application>
 
 </manifest>
